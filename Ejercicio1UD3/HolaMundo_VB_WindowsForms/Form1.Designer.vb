@@ -22,39 +22,63 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Button1 = New Button()
-        TextBox1 = New TextBox()
+        TxtSaludar = New Button()
+        TxtNombre = New TextBox()
+        sasdsd = New Label()
+        Label1 = New Label()
         SuspendLayout()
         ' 
-        ' Button1
+        ' TxtSaludar
         ' 
-        Button1.Location = New Point(590, 212)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(75, 23)
-        Button1.TabIndex = 0
-        Button1.Text = "Enviar"
-        Button1.UseVisualStyleBackColor = True
+        TxtSaludar.Location = New Point(590, 212)
+        TxtSaludar.Name = "TxtSaludar"
+        TxtSaludar.Size = New Size(75, 23)
+        TxtSaludar.TabIndex = 0
+        TxtSaludar.Text = "Enviar"
+        TxtSaludar.UseVisualStyleBackColor = True
         ' 
-        ' TextBox1
+        ' TxtNombre
         ' 
-        TextBox1.Location = New Point(46, 212)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(524, 23)
-        TextBox1.TabIndex = 1
+        TxtNombre.Location = New Point(46, 212)
+        TxtNombre.Name = "TxtNombre"
+        TxtNombre.Size = New Size(524, 23)
+        TxtNombre.TabIndex = 1
+        ' 
+        ' sasdsd
+        ' 
+        sasdsd.AutoSize = True
+        sasdsd.ForeColor = Color.Cornsilk
+        sasdsd.Location = New Point(251, 314)
+        sasdsd.Name = "sasdsd"
+        sasdsd.Size = New Size(0, 15)
+        sasdsd.TabIndex = 2
+        ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.ForeColor = Color.Firebrick
+        Label1.Location = New Point(257, 301)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(0, 15)
+        Label1.TabIndex = 3
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
-        Controls.Add(TextBox1)
-        Controls.Add(Button1)
+        Controls.Add(Label1)
+        Controls.Add(sasdsd)
+        Controls.Add(TxtNombre)
+        Controls.Add(TxtSaludar)
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
         PerformLayout()
     End Sub
 
-    Friend WithEvents Button1 As Button
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents TxtSaludar As Button
+    Friend WithEvents TxtNombre As TextBox
+    Friend WithEvents sasdsd As Label
+    Friend WithEvents Label1 As Label
 End Class

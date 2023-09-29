@@ -157,12 +157,6 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BibliotecaClasesUWP\BibliotecaClasesUWP.csproj">
-      <Project>{f85bdde7-f6d0-4ea8-8726-5e66291f1c45}</Project>
-      <Name>BibliotecaClasesUWP</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

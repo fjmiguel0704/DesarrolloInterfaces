@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Libreria.NetComun;
 
 namespace HolaMundo_WPF_C_
 {
@@ -23,6 +24,9 @@ namespace HolaMundo_WPF_C_
         public MainWindow()
         {
             InitializeComponent();
+            clsPersona persona = new clsPersona();
         }
+
+
     }
 }

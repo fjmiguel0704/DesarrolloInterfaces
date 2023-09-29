@@ -1,14 +1,21 @@
 ﻿Public Class Form1
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    Dim persona As New Libreria.NetComun.clsPersona
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles TxtSaludar.Click
+        If TxtNombre.Text = "" Then
+            Label1.Text = "El nombre no puede estar vacío"
+        Else
+            Label1.Text = ""
+            MessageBox.Show("Hola " + TxtNombre.Text)
+        End If
 
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MessageBox.Show("Hola mundo")
+    Private Sub TxtNombre_TextChanged(sender As Object, e As EventArgs) Handles TxtNombre.TextChanged
 
     End Sub
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
 
     End Sub
 End Class

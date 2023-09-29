@@ -22,3 +22,27 @@ C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD
 C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\Libreria.NetComun.pdb
 C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.csproj.AssemblyReference.cache
 C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.csproj.CopyComplete
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\HolaMundo_WPF_CSharp.exe
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\HolaMundo_WPF_CSharp.deps.json
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\HolaMundo_WPF_CSharp.runtimeconfig.json
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\HolaMundo_WPF_CSharp.dll
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\HolaMundo_WPF_CSharp.pdb
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\Libreria.NetComun.dll
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\bin\Debug\net7.0-windows\Libreria.NetComun.pdb
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.csproj.AssemblyReference.cache
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp_MarkupCompile.cache
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp_MarkupCompile.lref
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.g.resources
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.AssemblyInfoInputs.cache
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.AssemblyInfo.cs
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.csproj.CopyComplete
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.dll
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\refint\HolaMundo_WPF_CSharp.dll
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.pdb
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\HolaMundo_WPF_CSharp.genruntimeconfig.cache
+C:\Users\fjmiguel\Desktop\DesarrolloInterfaces\Ejercicio1UD3\HolaMundo_WPF_C#\obj\Debug\net7.0-windows\ref\HolaMundo_WPF_CSharp.dll
