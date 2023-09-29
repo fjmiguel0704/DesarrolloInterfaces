@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Libreria.NetComun
 {
-    internal class clsPersona
+    public class clsPersona
     {
         #region atributos
         private String nombre;
