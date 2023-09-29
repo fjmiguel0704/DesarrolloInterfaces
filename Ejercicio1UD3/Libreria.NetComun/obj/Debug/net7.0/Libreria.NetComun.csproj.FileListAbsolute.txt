@@ -1,0 +1,11 @@
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\bin\Debug\net7.0\Libreria.NetComun.deps.json
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\bin\Debug\net7.0\Libreria.NetComun.dll
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\bin\Debug\net7.0\Libreria.NetComun.pdb
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.AssemblyInfoInputs.cache
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.AssemblyInfo.cs
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.csproj.CoreCompileInputs.cache
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.dll
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\refint\Libreria.NetComun.dll
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\Libreria.NetComun.pdb
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 3\Ejercicio1UD3\Libreria.NetComun\obj\Debug\net7.0\ref\Libreria.NetComun.dll
