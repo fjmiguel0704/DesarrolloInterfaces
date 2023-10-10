@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Binding.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label>TwoWay</Label>
+            <Entry x:Name="twoway1">
+                
+            </Entry>
+
+            <Entry x:Name="twoway2">
+                
+            </Entry>
+
+            <Label>OneWay</Label>
+            <Entry x:Name="oneway1">
+
+            </Entry>
+
+            <Entry x:Name="oneway2">
+
+            </Entry>
+
+            <Label>OneTime</Label>
+            <Entry x:Name="onetime1">
+
+            </Entry>
+
+            <Entry x:Name="onetime2">
+
+            </Entry>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

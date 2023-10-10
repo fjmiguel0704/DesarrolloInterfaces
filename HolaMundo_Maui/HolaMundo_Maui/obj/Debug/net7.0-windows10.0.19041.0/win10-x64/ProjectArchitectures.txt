@@ -1,0 +1,2 @@
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 5\HolaMundo_Maui\BIbliotecaClases\BIbliotecaClases.csproj;neutral
+C:\Users\fjmiguel\Documents\2º DAM\Desarrollo de interfaces\Tema 5\HolaMundo_Maui\HolaMundo_Maui\HolaMundo_Maui.csproj;x64

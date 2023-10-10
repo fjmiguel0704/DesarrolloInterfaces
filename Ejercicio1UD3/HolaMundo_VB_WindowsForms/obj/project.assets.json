@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\HolaMundo_VB_WindowsForms.vbproj",
+      "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\HolaMundo_VB_WindowsForms.vbproj",
       "projectName": "HolaMundo_VB_WindowsForms",
-      "projectPath": "C:\\Users\\fjmiguel\\Desktop\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\HolaMundo_VB_WindowsForms.vbproj",
+      "projectPath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\HolaMundo_VB_WindowsForms.vbproj",
       "packagesPath": "C:\\Users\\fjmiguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fjmiguel\\Desktop\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\obj\\",
+      "outputPath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\Ejercicio1UD3\\HolaMundo_VB_WindowsForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\fjmiguel\\Desktop\\DesarrolloInterfaces\\Ejercicio1UD3\\Libreria.NetComun\\Libreria.NetComun.csproj": {
-              "projectPath": "C:\\Users\\fjmiguel\\Desktop\\DesarrolloInterfaces\\Ejercicio1UD3\\Libreria.NetComun\\Libreria.NetComun.csproj"
+            "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\Ejercicio1UD3\\Libreria.NetComun\\Libreria.NetComun.csproj": {
+              "projectPath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\Ejercicio1UD3\\Libreria.NetComun\\Libreria.NetComun.csproj"
             }
           }
         }
