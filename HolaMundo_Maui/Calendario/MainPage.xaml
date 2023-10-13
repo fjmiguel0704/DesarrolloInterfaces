@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calendario.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label Text="Fecha de entrada"/>
+            <DatePicker x:Name="entrada" Date="{Binding FechaEntrada}" MinimumDate="{Binding FechaHoy}"/>
+            
+            <Label Text="Fecha de salida"/>
+            <DatePicker x:Name="salida" Date="{Binding FechaSalida}" MinimumDate="{Binding FechaEntrada}"/>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIbliotecaClases", "BIbliot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlsViews", "ControlsViews\ControlsViews.csproj", "{C828EABE-1BE7-4064-906B-86D9234BB21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{CF3C4C99-86DC-4147-96DE-56DE7CE04261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binding", "Binding\Binding.csproj", "{CF3C4C99-86DC-4147-96DE-56DE7CE04261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendario", "Calendario\Calendario.csproj", "{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,12 @@ Global
 		{CF3C4C99-86DC-4147-96DE-56DE7CE04261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF3C4C99-86DC-4147-96DE-56DE7CE04261}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF3C4C99-86DC-4147-96DE-56DE7CE04261}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C27DE42-AD32-4B74-ADD8-8C07D8C251BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
