@@ -2,23 +2,31 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
+        public Boolean yaExisteBtn3 = false;
         public MainPage()
         {
-            InitializeComponent();
+            InitializeComponent();  
+        }
+        private void OnCounterClicked(object sender, EventArgs e) {
+            if (yaExisteBtn3 == false)
+            {
+                Button boton = new Button
+                {
+                    Text = "Boton3",
+                    HorizontalOptions = LayoutOptions.Center,
+                    VerticalOptions = LayoutOptions.Center,
+                    BackgroundColor = Colors.Blue,
+                    HeightRequest = 70,
+                    WidthRequest = 200,
+                    FontFamily = "Verdana",
+                    FontSize = 16,
+                    FontAttributes = FontAttributes.Bold,
+                    BorderColor = Colors.Yellow,
+                    Margin = 30
+                };
+                
+            }
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
-        {
-            count++;
-
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
-        }
     }
 }
