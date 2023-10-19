@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_07_Pages.MainPage">
+    <StackLayout>
+        <Entry Margin="10"
+               WidthRequest="200"
+               HorizontalOptions="Start"
+               Placeholder="Introduce el nombre"/>
+        
+        <Button Text="Ir a Pagina Tabbed"
+                WidthRequest="200"
+                Margin="10"
+                HorizontalOptions="Start"
+                x:Name="navegarTabbed"
+                Clicked="irPaginaTabbed"/>
+    </StackLayout>
+
+</ContentPage>

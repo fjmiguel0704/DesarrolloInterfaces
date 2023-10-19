@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new PaginaTabbed();
+            MainPage = new Pagina1();
         }
     }
 }

@@ -41,3 +41,4 @@ C:\Users\fjmiguel\Desktop\2ºDAM\GitHub\DesarrolloInterfaces\EjerciciosUd7\Tema7
 C:\Users\fjmiguel\Desktop\2ºDAM\GitHub\DesarrolloInterfaces\EjerciciosUd7\Tema7\obj\Debug\net7.0-ios\iossimulator-x64\Tema7.AssemblyInfoInputs.cache
 C:\Users\fjmiguel\Desktop\2ºDAM\GitHub\DesarrolloInterfaces\EjerciciosUd7\Tema7\obj\Debug\net7.0-ios\iossimulator-x64\Tema7.AssemblyInfo.cs
 C:\Users\fjmiguel\Desktop\2ºDAM\GitHub\DesarrolloInterfaces\EjerciciosUd7\Tema7\obj\Debug\net7.0-ios\iossimulator-x64\Tema7.csproj.CoreCompileInputs.cache
+C:\Users\fjmiguel\Desktop\2ºDAM\GitHub\DesarrolloInterfaces\EjerciciosUd7\Tema7\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature

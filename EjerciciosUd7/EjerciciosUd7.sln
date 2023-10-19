@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema7", "Tema7\Tema7.csproj", "{50363D87-D969-478A-A6C4-37D0D6D5AAA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Pages", "07-Pages\07-Pages.csproj", "{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50363D87-D969-478A-A6C4-37D0D6D5AAA5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE0CDB4-5D9F-4EF1-AE02-0D23C352F17C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
