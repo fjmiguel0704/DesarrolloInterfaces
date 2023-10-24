@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fjmiguel\\Desktop\\2ºDAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {}
+    "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fjmiguel\\Desktop\\2ºDAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {
+    "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\2ºDAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
+        "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
         "projectName": "07-Pages",
-        "projectPath": "C:\\Users\\fjmiguel\\Desktop\\2ºDAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
+        "projectPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
         "packagesPath": "C:\\Users\\fjmiguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fjmiguel\\Desktop\\2ºDAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\obj\\",
+        "outputPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

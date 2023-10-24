@@ -7,7 +7,12 @@
                WidthRequest="200"
                HorizontalOptions="Start"
                Placeholder="Introduce el nombre"/>
-        
+
+        <Entry Margin="10"
+               WidthRequest="200"
+               HorizontalOptions="Start"
+               Placeholder="Introduce los apellidos"/>
+
         <Button Text="Ir a Pagina Tabbed"
                 WidthRequest="200"
                 Margin="10"
