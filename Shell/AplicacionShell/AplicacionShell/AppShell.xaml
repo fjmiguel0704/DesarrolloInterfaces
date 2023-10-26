@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AplicacionShell.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AplicacionShell.Views"
+    Shell.FlyoutBehavior="Disabled">
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+
+        <Tab Title="Media"
+             Icon="media.png">
+            <ShellContent Title="Televisión"
+                          Icon="tv.png"
+                          ContentTemplate="{DataTemplate local:TvMediaPage}"/>
+
+            <ShellContent Title="Radios"
+                          Icon="radio.png"
+                          ContentTemplate="{DataTemplate local:RadioMediaPage}"/>
+        </Tab>
+
+        <ShellContent Title="Entradas"
+                      Icon="entradas.png"
+                      ContentTemplate="{DataTemplate local:EntradasPage}">
+            
+        </ShellContent>
+
+        <ShellContent Title="Tienda"
+                      Icon="tienda.png"
+                      ContentTemplate="{DataTemplate local:TiendaPage}">
+
+        </ShellContent>
+
+        <ShellContent Title="Menú"
+                      Icon="menu.png"
+                      ContentTemplate="{DataTemplate local:MenuPage}">
+
+        </ShellContent>
+        
+    </FlyoutItem>
+    
+</Shell>

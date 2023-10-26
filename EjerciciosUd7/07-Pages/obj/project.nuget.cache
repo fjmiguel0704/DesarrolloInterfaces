@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RkKVa4GZjqHnmR0RuPl3+BsuL6pHthpCzkGqKg2ii9/gSgbxxnFOSoG7QLimniojon5lP6RwxOs03ISoA9zkLQ==",
+  "dgSpecHash": "ZHa3luNS26si22l+Go0ina40Jl7u1fc9xz0NIB9bMxbye7clZQFW/mr1Tpkd7Zvz6qqoCuZMv060QEH6wFwD9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\source\\repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
