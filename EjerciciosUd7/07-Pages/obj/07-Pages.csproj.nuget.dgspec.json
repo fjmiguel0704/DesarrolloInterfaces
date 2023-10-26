@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {}
+    "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {
+    "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
         "projectName": "07-Pages",
-        "projectPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
-        "packagesPath": "C:\\Users\\fjmiguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitHub\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\obj\\",
+        "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\07-Pages.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\07-Pages\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fjmiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -36,19 +36,35 @@
         "frameworks": {
           "net7.0-android33.0": {
             "targetAlias": "net7.0-android",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj"
+              }
+            }
           },
           "net7.0-ios16.1": {
             "targetAlias": "net7.0-ios",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj"
+              }
+            }
           },
           "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj"
+              }
+            }
           },
           "net7.0-windows10.0.19041": {
             "targetAlias": "net7.0-windows10.0.19041.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -76,18 +92,13 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
-            "Microsoft.Extensions.Logging.Abstractions": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.92, )",
+              "version": "[7.0.96, )",
               "autoReferenced": true
             },
             "Xamarin.Android.Glide": {
@@ -174,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
@@ -194,18 +205,13 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
-            "Microsoft.Extensions.Logging.Abstractions": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.92, )",
+              "version": "[7.0.96, )",
               "autoReferenced": true
             }
           },
@@ -237,7 +243,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
@@ -257,18 +263,13 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
-            "Microsoft.Extensions.Logging.Abstractions": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.92, )",
+              "version": "[7.0.96, )",
               "autoReferenced": true
             }
           },
@@ -301,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
@@ -321,23 +322,18 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
-            "Microsoft.Extensions.Logging.Abstractions": {
-              "target": "Package",
-              "version": "[7.0.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
-              "version": "[7.0.92, )",
+              "version": "[7.0.96, )",
               "autoReferenced": true
             },
             "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
               "target": "Package",
-              "version": "[7.0.92, )",
+              "version": "[7.0.96, )",
               "autoReferenced": true
             },
             "Microsoft.WindowsAppSDK": {
@@ -360,11 +356,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[7.0.11, 7.0.11]"
+              "version": "[7.0.12, 7.0.12]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[7.0.11, 7.0.11]"
+              "version": "[7.0.12, 7.0.12]"
             },
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -372,7 +368,7 @@
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[7.0.11, 7.0.11]"
+              "version": "[7.0.12, 7.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -392,7 +388,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -416,6 +412,66 @@
         },
         "win10-x64": {
           "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferna\\Source\\Repos\\DesarrolloInterfaces\\EjerciciosUd7\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

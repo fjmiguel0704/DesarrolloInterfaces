@@ -6,12 +6,14 @@
         <Entry Margin="10"
                WidthRequest="200"
                HorizontalOptions="Start"
-               Placeholder="Introduce el nombre"/>
+               Placeholder="Introduce el nombre"
+               x:Name="NombreUsu"/>
 
         <Entry Margin="10"
                WidthRequest="200"
                HorizontalOptions="Start"
-               Placeholder="Introduce los apellidos"/>
+               Placeholder="Introduce los apellidos"
+               x:Name="ApellidosUsu"/>
 
         <Button Text="Ir a Pagina Tabbed"
                 WidthRequest="200"
@@ -19,6 +21,18 @@
                 HorizontalOptions="Start"
                 x:Name="navegarTabbed"
                 Clicked="irPaginaTabbed"/>
+
+        <Button Text="Página 4"
+                WidthRequest="200"
+                HorizontalOptions="Start"
+                Margin="10"
+                Clicked="irPage4"/>
+
+        <Button Text="Página 5"
+                WidthRequest="200"
+                HorizontalOptions="Start"
+                Margin="10"
+                Clicked="irPage5"/>
     </StackLayout>
 
 </ContentPage>
