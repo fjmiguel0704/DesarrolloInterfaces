@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gBXAS75NQoNir+I3azOfDcKs9QzVJ0ehruvBI395A31/H4Qg6q3LsC+GwUqaFyHpQ669njMW32IdogueQfMncQ==",
+  "dgSpecHash": "9Pslog5zbEE4PXHdhoEg7QTbgCZ6qdwL0uS7lGXWfUrlzHquk+tgm00TsXjdctgQlcOdX6S6vewCukmke3JznA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
+  "projectFilePath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitDI\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fjmiguel\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\fjmiguel\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

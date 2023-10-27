@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
+      "projectUniqueName": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitDI\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
       "projectName": "EjerciciosUd6",
-      "projectPath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
+      "projectPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitDI\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\EjerciciosUd6.csproj",
       "packagesPath": "C:\\Users\\fjmiguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fjmiguel\\Desktop\\GitHub\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\obj\\",
+      "outputPath": "C:\\Users\\fjmiguel\\Desktop\\2DAM\\GitDI\\DesarrolloInterfaces\\EjerciciosUd6\\EjerciciosUd6\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
